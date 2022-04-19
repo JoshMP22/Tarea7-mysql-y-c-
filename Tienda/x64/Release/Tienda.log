@@ -1,0 +1,10 @@
+﻿  Bodega.cpp
+C:\Users\morat\OneDrive\Escritorio\C++\TAREA 7 (TIENDA)\Tienda\Tienda\Bodega.h(133,17): warning C4101: 'q_stado': variable local sin referencia
+  Tienda.cpp
+C:\Users\morat\OneDrive\Escritorio\C++\TAREA 7 (TIENDA)\Tienda\Tienda\Bodega.h(133,17): warning C4101: 'q_stado': variable local sin referencia
+  Generando código
+  2 of 172 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Tienda.vcxproj -> C:\Users\morat\OneDrive\Escritorio\C++\TAREA 7 (TIENDA)\Tienda\x64\Release\Tienda.exe
